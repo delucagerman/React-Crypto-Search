@@ -35,7 +35,7 @@ function App() {
 					<input
 						type="text"
 						className="coin-input"
-						placeholder="Buscar"
+						placeholder="Busca la tuya Miliooooo"
 						onChange={handleCange}
 					/>
 				</form>
